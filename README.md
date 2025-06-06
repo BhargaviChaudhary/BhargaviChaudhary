@@ -1,5 +1,5 @@
  - 👋 Hello world! I’m Bhargavi Chaudhary
- - 👀 I’m interested in Web Development, Frontend Development 
+ - 👀 I’m interested in AI, ML & Data Science 
  - 🌱 I’m currently learning JavaScript|React.js|Python
  - 📫 How to reach me... bhargavic007@gmail.com
  - 💭 Ask me about C, C++, HTML, CSS, MySQL 

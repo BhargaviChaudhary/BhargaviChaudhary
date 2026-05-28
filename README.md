@@ -1,9 +1,8 @@
 # 👋 Hello World! I'm Bhargavi Chaudhary
-
-- 👀 Passionate about AI, Machine Learning & Data Science  
+  
 - 🌱 Currently diving into: DSA, React.js, Python  
 - 💬 Ask me about: C, C++, HTML, CSS, Javascript, MySQL 
-- 📫 Reach me at: *bhargavic007@gmail.com*  
+- 📫 Reach me at: *bhargavi.chaudhary17@gmail.com*  
 - 🧠 Always exploring code, design, and meaningful digital experiences  
 - 🛠 Currently building: personal projects, UI/UX prototypes, and learning systems  
 - 🎯 Hackathon Participant | Creative Thinker | Project-Focused Learner  
@@ -15,7 +14,6 @@
 ### 📌 Some Fun Facts About Me
 - ✨ I believe in *learning by building*
 - 🧩 Love working on real-world challenges
-- 🎨 UI/UX enthusiast — also enjoy working in Figma!
 - 🔍 Curious by nature, committed to consistency
 
 ---

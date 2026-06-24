@@ -1,10 +1,9 @@
 # 👋 Hello World! I'm Bhargavi Chaudhary
   
-- 🌱 Currently diving into: DSA, React.js, Python  
-- 💬 Ask me about: C, C++, HTML, CSS, Javascript, MySQL 
+- 💬 Ask me about: Python,C, C++, HTML, CSS, Javascript, MySQL 
 - 📫 Reach me at: *bhargavi.chaudhary17@gmail.com*  
 - 🧠 Always exploring code, design, and meaningful digital experiences  
-- 🛠 Currently building: personal projects, UI/UX prototypes, and learning systems  
+- 🛠 Currently building: personal projects and learning systems  
 - 🎯 Hackathon Participant | Creative Thinker | Project-Focused Learner  
 - 🌐 All my work lives here:  
   [📁 GitHub Projects](https://github.com/BhargaviChaudhary)
@@ -42,11 +41,16 @@
 ---
 
 ### 📊 GitHub Stats & Streaks
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
 ![Bhargavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhargaviChaudhary&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=BhargaviChaudhary&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhargaviChaudhary&layout=compact&theme=tokyonight)
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)
 ---

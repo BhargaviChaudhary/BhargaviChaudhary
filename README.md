@@ -45,8 +45,6 @@
 
 ![Bhargavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhargaviChaudhary&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=BhargaviChaudhary&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhargaviChaudhary&layout=compact&theme=tokyonight)
 
 
